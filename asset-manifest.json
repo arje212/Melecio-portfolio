@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-portfolio2/static/css/main.ef3f6e90.css",
-    "main.js": "/my-portfolio2/static/js/main.c33cc07e.js",
-    "static/media/melecio1.jpg": "/my-portfolio2/static/media/melecio1.6c4045490612d584be37.jpg",
-    "static/media/rb.png": "/my-portfolio2/static/media/rb.08d5ed0ff0f5f8844c4a.png",
-    "static/media/melecio.pdf": "/my-portfolio2/static/media/melecio.fb3c25299d6952cae1ba.pdf",
-    "static/media/melecio3.jpg": "/my-portfolio2/static/media/melecio3.810087f978e50c36f9c9.jpg",
-    "static/media/melecio2.jpg": "/my-portfolio2/static/media/melecio2.f04851661b493e9fcb38.jpg",
-    "static/media/melecio24.jpg": "/my-portfolio2/static/media/melecio24.8340cb855dc3f110bf85.jpg",
-    "index.html": "/my-portfolio2/index.html",
-    "main.ef3f6e90.css.map": "/my-portfolio2/static/css/main.ef3f6e90.css.map",
-    "main.c33cc07e.js.map": "/my-portfolio2/static/js/main.c33cc07e.js.map"
+    "main.css": "/Melecio-portfolio/static/css/main.ef3f6e90.css",
+    "main.js": "/Melecio-portfolio/static/js/main.8be6803f.js",
+    "static/media/melecio1.jpg": "/Melecio-portfolio/static/media/melecio1.6c4045490612d584be37.jpg",
+    "static/media/rb.png": "/Melecio-portfolio/static/media/rb.08d5ed0ff0f5f8844c4a.png",
+    "static/media/melecio.pdf": "/Melecio-portfolio/static/media/melecio.fb3c25299d6952cae1ba.pdf",
+    "static/media/melecio3.jpg": "/Melecio-portfolio/static/media/melecio3.810087f978e50c36f9c9.jpg",
+    "static/media/melecio2.jpg": "/Melecio-portfolio/static/media/melecio2.f04851661b493e9fcb38.jpg",
+    "static/media/melecio24.jpg": "/Melecio-portfolio/static/media/melecio24.8340cb855dc3f110bf85.jpg",
+    "index.html": "/Melecio-portfolio/index.html",
+    "main.ef3f6e90.css.map": "/Melecio-portfolio/static/css/main.ef3f6e90.css.map",
+    "main.8be6803f.js.map": "/Melecio-portfolio/static/js/main.8be6803f.js.map"
   },
   "entrypoints": [
     "static/css/main.ef3f6e90.css",
-    "static/js/main.c33cc07e.js"
+    "static/js/main.8be6803f.js"
   ]
 }
